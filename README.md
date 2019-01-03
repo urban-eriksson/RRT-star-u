@@ -1,2 +1,2 @@
-# RRT-ux
-RRT for unexplored maps. The proposed method uses dynamic sizing of the sampling region, depending on the results of the planning. 
+# RRT-star-u
+Matlab demo (main.m) RRT-star for unexplored environments. The proposed algorithm uses dynamic size of the sampling region. When no path to the goal is found, the sampling region is increased.  
